@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Off the Wall",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-02-12T10:52:39.198964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Off The Wall",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Off_The_Wall_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Off the Wall",
+      "artist": "Times New Viking",
+      "has_synced": false,
+      "path": "select/02_Off_the_Wall_Times_New_Viking.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bouncing off the Wall",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/03_Bouncing_off_the_Wall_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Off_the_Wall_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Off the Wall!",
+      "artist": "XXXTENTACION feat. Ski Mask The Slump God",
+      "has_synced": true,
+      "path": "select/05_Off_the_Wall!_XXXTENTACION_feat._Ski_Mask_The_Slump_God.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Off the Wall!",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/06_Off_the_Wall!_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Off the Wall",
+      "artist": "Tha Alkaholiks feat. Keith Murray",
+      "has_synced": false,
+      "path": "select/07_Off_the_Wall_Tha_Alkaholiks_feat._Keith_Murray.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Off The Wall",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Off_The_Wall_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Off the Wall (feat. Lil' Cease)",
+      "artist": "Lil' Kim feat. Lil' Cease",
+      "has_synced": true,
+      "path": "select/09_Off_the_Wall_(feat._Lil'_Cease)_Lil'_Kim_feat._Lil'_Cease.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Off The Wall (f\u0000Lil' Cease)",
+      "artist": "Lil' Kim",
+      "has_synced": true,
+      "path": "select/10_Off_The_Wall_(f\u0000Lil'_Cease)_Lil'_Kim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Off The Wall",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Off_The_Wall_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Off the Wall",
+      "artist": "Skillz",
+      "has_synced": false,
+      "path": "select/12_Off_the_Wall_Skillz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Off_the_Wall_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Off The Wall",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_Off_The_Wall_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Off the Wall!",
+      "artist": "Xxxtentacion; Ski Mask the Slump God",
+      "has_synced": true,
+      "path": "select/15_Off_the_Wall!_Xxxtentacion;_Ski_Mask_the_Slump_God.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Off The Wall",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Off_The_Wall_Michael_Jackson.txt"
+    }
+  ]
+}
